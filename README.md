@@ -3,13 +3,13 @@
 
 **FerreiraPedroo/FerreiraPedroo**<br/>
 
-Dev Web Full Stack
+**----------------------------------------------------------------------**<br/>
+Dev Web Full Stack <br/>
+Front End: **React / jQuery / JavaScript / HTML5 / CSS3**<br/>
+Back End: **NodeJs / Nginx / Apache**<br/>
+OS: **Windows / Linux Ubuntu** <br/>
+**----------------------------------------------------------------------**<br/>
 
-FrontEnd: **React / jQuery / JavaScript / HTML5 / CSS3**
-
-BACK END: **NodeJs / Nginx / Apache**
-
-OS: **Windows / Linux Ubuntu**
 
  <div>
   <a href="https://github.com/ferreirapedroo">
