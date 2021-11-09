@@ -1,7 +1,16 @@
 ### Olá Pessoal 👋
 
 
-**FerreiraPedroo/FerreiraPedroo**
+**FerreiraPedroo/FerreiraPedroo**<br/>
+
+Dev Web Full Stack
+
+FrontEnd: **React / jQuery / JavaScript / HTML5 / CSS3**
+
+BACK END: **NodeJs / Nginx / Apache**
+
+OS: **Windows / Linux Ubuntu**
+
  <div>
   <a href="https://github.com/ferreirapedroo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferreirapedroo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
