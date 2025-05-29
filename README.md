@@ -42,6 +42,11 @@ STRAO é dividido em módulos, cada módulo pode usado separadamente ou de modo 
 [CrivoBR](https://github.com/FerreiraPedroo/CrivoBr)  
 Sistema de multichamados para empresas que necessitam de integração entre os setores, com chamados especializados em diversas areas tudo centralizado em um aplicativo só com funcionalidades integradas com outros serviços do  sistema STRAO.
 
+### 🔹 BlockFlix - Catalogos de Filmes
+[BlockFlix](https://github.com/FerreiraPedroo/BlockFlix-Locadora)  
+Site de consulta de filmes atravez da API da OMDB, front end com React..
+
+
 <br/>
 
 ## 🛠️ Tecnologias e Ferramentas
