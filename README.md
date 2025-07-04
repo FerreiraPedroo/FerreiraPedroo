@@ -35,12 +35,8 @@ PEDRO FERREIRA 🙋‍♂️
 
 ### 🔹 STRAO - SistemaUtralOperacional
 [STRAO](https://github.com/FerreiraPedroo/STRAO)  
-Sistema de apoio administraativo / operacional para empresas que abrangem diversas áreas.
+Sistema de apoio administrativo / operacional para empresas que abrangem diversas áreas.
 STRAO é dividido em módulos, cada módulo pode usado separadamente ou de modo integrado.
-
-### 🔹 CrivoBR - Sistema de chamados (em levantamento de requisitos)
-[CrivoBR](https://github.com/FerreiraPedroo/CrivoBr)  
-Sistema de multichamados para empresas que necessitam de integração entre os setores, com chamados especializados em diversas areas tudo centralizado em um aplicativo só com funcionalidades integradas com outros serviços do  sistema STRAO.
 
 ### 🔹 BlockFlix - Catalogos de Filmes
 [BlockFlix](https://github.com/FerreiraPedroo/BlockFlix-Locadora)  
