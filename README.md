@@ -9,8 +9,8 @@ PEDRO FERREIRA 🙋‍♂️
 
 ## ✌️ Sobre Mim
 
-- 🎓 Formando em Analise e desenvolvimento de sistemas.
-- 🌱 Aprofundando meus conhecimentos em desenvolvimento back-end, com foco atual em Java.
+- 🎓 Formado em Analise e desenvolvimento de sistemas.
+- 🌱 Aprofundando meus conhecimentos em desenvolvimento back-end.
 - 💻 Experiência profissional com HTML, CSS, JavaScript, TypeScript, React, Node, Express, PHP, Laravel, MongoDB, Postgres, Redis.
 - 🤝 Apaixonado por tecnologia, colaboração e compartilhamento de conhecimento.
 
